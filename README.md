@@ -1,6 +1,7 @@
 # Dollar Strength vs. LVMH Stock Price
 
 **Author:** Antonia Velasquez
+
 **Status:** Version 1 (annual data). Version 2 with monthly data is in progress.
 
 ## Question
