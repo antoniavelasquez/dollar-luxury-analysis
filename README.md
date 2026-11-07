@@ -4,7 +4,7 @@
 
 **Status:** Version 2 (monthly data, 2019–2026). Version 1 (annual data) is kept in `analysis/`.
 
-**Dashboard:** [View the dashboard on Tableau Public](https://public.tableau.com/app/profile/antonia.velasquez/viz/DollarStrengthvs_LuxuryStocks/DollarStrenthvs_LuxuryStocks)
+**Dashboard:** [View the dashboard on Tableau Public](https://public.tableau.com/views/DollarStrengthvs_LuxuryStocks/DollarStrenthvs_LuxuryStocks)
 
 
 ## Question
