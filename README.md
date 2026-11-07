@@ -4,7 +4,8 @@
 
 **Status:** Version 2 (monthly data, 2019–2026). Version 1 (annual data) is kept in `analysis/`.
 
-**Dashboard:** [https://public.tableau.com/app/profile/antonia.velasquez/viz/DollarStrengthvs_LuxuryStocks/DollarStrenthvs_LuxuryStocks]
+**Dashboard:** [View the dashboard on Tableau Public](https://public.tableau.com/app/profile/antonia.velasquez/viz/DollarStrengthvs_LuxuryStocks/DollarStrenthvs_LuxuryStocks)
+
 
 ## Question
 When the dollar weakens against the euro, does LVMH's stock price tend to fall? And is the dollar's link with luxury stocks specific to luxury, or a market-wide pattern?
@@ -30,7 +31,7 @@ The stock price data belongs to its original providers and is included here only
 
 ## Results
 
-[Dashboard](images/Dashboard.png)
+![Dashboard: dollar strength vs. luxury stocks](images/Dashboard.png)
 
 **1. The claim "the dollar is at its lowest since 2019" does not hold in this data.** The broad index was lowest in May 2021 (110.76) versus 121.32 in late October 2026; USD per EUR peaked in December 2020 (1.223) versus 1.12.
 
