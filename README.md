@@ -30,7 +30,7 @@ The stock price data belongs to its original providers and is included here only
 
 ## Results
 
-[Dashboard](images/dashboard.png)
+[Dashboard](images/Dashboard.png)
 
 **1. The claim "the dollar is at its lowest since 2019" does not hold in this data.** The broad index was lowest in May 2021 (110.76) versus 121.32 in late October 2026; USD per EUR peaked in December 2020 (1.223) versus 1.12.
 
