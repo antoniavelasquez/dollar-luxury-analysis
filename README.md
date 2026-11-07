@@ -4,7 +4,7 @@
 
 **Status:** Version 2 (monthly data, 2019–2026). Version 1 (annual data) is kept in `analysis/`.
 
-**Dashboard:** [https://public.tableau.com/views/DollarStrengthvs_LuxuryStocks/DollarStrenthvs_LuxuryStocks?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+**Dashboard:** [https://public.tableau.com/app/profile/antonia.velasquez/viz/DollarStrengthvs_LuxuryStocks/DollarStrenthvs_LuxuryStocks]
 
 ## Question
 When the dollar weakens against the euro, does LVMH's stock price tend to fall? And is the dollar's link with luxury stocks specific to luxury, or a market-wide pattern?
